@@ -1,4 +1,8 @@
-- 👋 Hi, I’m @Ultr4Anubis
-- 👀 I’m interested in making addons for MC W10 edition. I also like Musical theatre and Themeparks
-- 🌱 I’m currently learning Python and Json
+- 👋 Hi, I’m Ultra
+
+I am a huge Formula 1 fan with a passion for making downloadable content for Minecraft.
+I also have a passion for Musical theatre.
+
+Currently the Owner of CubePark Studios.
+Learning to code Python
 
